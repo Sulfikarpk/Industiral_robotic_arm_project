@@ -10,8 +10,6 @@ The system combines a **Kawasaki Industrial Robot**, **Arduino Mega**, **magneti
 
 ---
 
----
-
 # 📸 Project Images
 
 ## Overall Setup
