@@ -92,6 +92,7 @@ images/demo/
 | Kawasaki Industrial Robot | Performs the game movements |
 | Arduino Mega | Processes sensor inputs and controls hardware |
 | Magnetic Sensors | Detects player moves on the game board |
+| 8 channel Relay | it will trigger to the input signal to robot|
 | DMX Controller | Controls LED lighting effects |
 | LED Lighting | Visual feedback during gameplay |
 | Custom Tic-Tac-Toe Board | Playing surface |
