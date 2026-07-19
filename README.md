@@ -14,54 +14,33 @@ The system combines a **Kawasaki Industrial Robot**, **Arduino Mega**, **magneti
 
 ## Overall Setup
 
-> Add images here
-
-```
-images/
-├── setup_01.jpg
-├── setup_02.jpg
-├── robot_setup.jpg
-├── game_board.jpg
-└── wiring.jpg
-```
+![image of the game](https://github.com/Sulfikarpk/Industiral_robotic_arm_project/blob/main/robotic__arm%20projrct%20image.jpeg)
 
 ---
-
-## Hardware
-
-> Add hardware images here
-
-```
-images/hardware/
-├── kawasaki_robot.jpg
-├── arduino_mega.jpg
-├── magnetic_sensor.jpg
-├── dmx_controller.jpg
-└── led_setup.jpg
-```
-
----
-
-## Working Demonstration
-
-> Add working images here
-
-```
-images/demo/
-├── gameplay_01.jpg
-├── gameplay_02.jpg
-├── robot_move.jpg
-└── event_demo.jpg
-```
-
----
-
 # 🎥 Project Video
 
 ### Demonstration Video
 
-> Add your project video here.
+vedio link
 
+https://youtube.com/shorts/c7FwI74G48g?feature=share
+
+----
+
+## Hardware
+
+![image of the hardware](https://github.com/Sulfikarpk/Industiral_robotic_arm_project/blob/main/Robot_game_hardware.jpeg)
+
+---
+
+## Robotic arm Programming
+
+![prgramming teach pendendt](https://github.com/Sulfikarpk/Industiral_robotic_arm_project/blob/main/teach_pendent1.jpeg)
+![](https://github.com/Sulfikarpk/Industiral_robotic_arm_project/blob/main/teach_pendedt2.jpeg)
+![](https://github.com/Sulfikarpk/Industiral_robotic_arm_project/blob/main/teach_pendednt3.jpeg)
+![](https://github.com/Sulfikarpk/Industiral_robotic_arm_project/blob/main/teach_pendnedt4.jpeg)
+
+---
 
 # 🎯 Objectives
 
