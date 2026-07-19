@@ -1,5 +1,10 @@
 # 🤖 Kawasaki Robot Tic-Tac-Toe Interactive Game
 
+## Project Description
+
+The Kawasaki Robot Tic-Tac-Toe is an interactive robotics project developed for a technical event, where a Kawasaki industrial robotic arm plays Tic-Tac-Toe against a human player. The system integrates a Kawasaki robot, Arduino Mega, magnetic sensors for move detection, and DMX-controlled LED lighting to create an engaging and reliable interactive experience.
+I was responsible for the complete development and deployment of the project, including robot programming, hardware integration, embedded programming, sensor interfacing, system testing, and event installation. This project provided valuable hands-on experience in industrial robot programming, motion control, robot I/O configuration, embedded systems, hardware debugging, and multidisciplinary team coordination, making it one of the most significant practical learning experiences in my engineering career.
+
 ## 📌 Project Overview
 
 The **Kawasaki Robot Tic-Tac-Toe** is an interactive robotics project developed for a technical event, where an industrial Kawasaki robotic arm competes against a human player in a game of Tic-Tac-Toe.
