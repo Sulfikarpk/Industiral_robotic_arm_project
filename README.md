@@ -27,8 +27,9 @@ The system combines a **Kawasaki Industrial Robot**, **Arduino Mega**, **magneti
 ### Demonstration Video
 
 vedio link
+teraching vedio https://youtube.com/shorts/unzqAk1yUcE?feature=share
 
-https://youtube.com/shorts/c7FwI74G48g?feature=share
+final_0ut https://youtube.com/shorts/c7FwI74G48g?feature=share
 
 ----
 
